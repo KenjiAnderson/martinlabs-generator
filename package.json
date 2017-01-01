@@ -1,0 +1,32 @@
+{
+  "name": "generator-martinlabs",
+  "version": "5.3.0",
+  "description": "Generates a fullstack CRUD using Java and Vue.js, check the features list",
+  "homepage": "https://github.com/martinlabs/generator-martinlabs",
+  "author": {
+    "name": "Gil Lopes Bueno",
+    "email": "melanke.hc@gmail.com",
+    "url": ""
+  },
+  "files": [
+    "generators"
+  ],
+  "main": "generators/index.js",
+  "keywords": [
+    "crud java vue mysql",
+    "yeoman-generator"
+  ],
+  "dependencies": {
+    "ast-query": "^1.2.0",
+    "chalk": "^1.0.0",
+    "jsonfile": "^2.2.3",
+    "mkdirp": "^0.5.1",
+    "moment": "^2.15.1",
+    "mysql": "^2.10.2",
+    "xml2js": "^0.4.16",
+    "yeoman-generator": "^0.21.1",
+    "yosay": "^1.0.2"
+  },
+  "repository": "martinlabs/generator-martinlabs",
+  "license": "Apache-2.0"
+}
